@@ -4,7 +4,7 @@ Privacy-first visual AI pipeline editor. Build smart camera and audio workflows 
 
 Built for **Windows ARM64** with Qualcomm NPU acceleration via Nexa SDK (OmniNeural-4B) and ONNX Runtime QNN.
 
-Won MadData 2026
+Won MadData 2026 (Qualcomm Track)
 Dev Post : https://devpost.com/software/arcflow-3g7r2v
 
 ---
@@ -265,4 +265,4 @@ All wiring is visual — drag edges between node handles on the canvas. Downstre
 
 ## License
 
-Private — hackathon project.
+Private — hackathon project
